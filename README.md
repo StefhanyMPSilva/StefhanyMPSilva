@@ -8,3 +8,7 @@
    <a href="linkedin.com/in/stefhany-paixão-59762a102" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br><br>
 </section>
+
+ ## Main Projects on this repository
+ ### [LETSPred](https://github.com/StefhanyMPSilva/LETSPred)
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
